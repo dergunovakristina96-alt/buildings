@@ -89,14 +89,14 @@ section {
     line-height: 20px;
     text-decoration: none;
     transition: color 0.3s ease;
-    border-bottom: 1px solid var(--Brand-Primary, #052838);
+    border-bottom: 1px solid var(--Brand-Primary, #0C3D54);
 }
 
 .nav__link:hover,
 .nav__link:active,
 .nav__link.active {
     color: var(--brand-primary);
-    border-bottom: 1px solid var(--Brand-Primary, #052838);
+    border-bottom: 1px solid var(--Brand-Primary, #0C3D54);
 }
 
 .phone-btn {
@@ -111,7 +111,7 @@ section {
 }
 
 .phone-btn:hover {
-    background: #041f2a;
+    background: #0C3D54;
 }
 
 .phone-btn span {
@@ -188,7 +188,7 @@ section {
 }
 
 .hero__btn:hover {
-    background: #041f2a;
+    background: #0C3D54;
 }
 
 .hero__image-wrapper {
@@ -270,7 +270,7 @@ section {
 }
 
 .about__btn:hover {
-    background: #041f2a;
+    background: #0C3D54;
 }
 
 .about__image-wrapper {
@@ -399,7 +399,7 @@ section {
 }
 
 .portfolio__arrow:hover {
-    background: #041f2a;
+    background: #0C3D54;
 }
 
 .portfolio__arrow--prev {
@@ -479,7 +479,7 @@ section {
 }
 
 .portfolio__btn:hover {
-    background: #041f2a;
+    background: #0C3D54;
 }
 
 .certifications {
@@ -625,7 +625,7 @@ section {
 }
 
 .certifications__btn:hover {
-    background: #041f2a;
+    background: #0C3D54;
 }
 
 
@@ -643,7 +643,7 @@ section {
 .partners__inner {
     display: flex;
     flex-direction: column;
-    gap: 80px;
+    gap: 40px;
 }
 
 .partners__header {
@@ -733,7 +733,7 @@ section {
 }
 
 .partners__arrow:hover {
-    background: #041f2a;
+    background: #0C3D54;
 }
 
 .partners__arrow--prev {
@@ -812,7 +812,7 @@ section {
 }
 
 .partners__btn:hover {
-    background: #041f2a;
+    background: #0C3D54;
 }
 
 .faq {
@@ -985,7 +985,7 @@ section {
 
 .cta__input:hover {
     border-radius: 8px;
-    border: 1px solid var(--brand-primary, #052838);
+    border: 1px solid var(--brand-primary, #0C3D54);
     background: var(--grayscale-100, #F7F8FA);
 }
 
@@ -1149,7 +1149,7 @@ section {
 }
 
 .footer__nav-link:hover {
-    color: #052838;
+    color: #0C3D54;
 }
 
 .footer__right {
@@ -1207,7 +1207,7 @@ section {
 
 .footer__input:hover {
     border-radius: 8px;
-    border: 1px solid #052838;
+    border: 1px solid #0C3D54;
     background: #F7F8FA;
 }
 
@@ -1251,5 +1251,5 @@ section {
 }
 
 .footer__submit:hover {
-    background: #041f2a;
+    background: #0C3D54;
 }
